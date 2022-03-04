@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "830960873044",
+    "project_id": "dorms-6d71a",
+    "storage_bucket": "dorms-6d71a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830960873044:android:b8ecb96136124dccfe87c1",
+        "android_client_info": {
+          "package_name": "com.example.dorms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830960873044-j1c7sffhgkoosovple6t20kuuoon5959.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqnza1GsrMW6tDjIC9BjAXzJ-ujmyjilM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830960873044-j1c7sffhgkoosovple6t20kuuoon5959.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
